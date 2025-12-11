@@ -10,4 +10,4 @@ RUN apt-get update && apt-get install -y \
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
-ENTRYPOINT ["python", "bhfl-dbs-to-s3.py"]
+ENTRYPOINT ["python", "pdf_to_email.py"]
