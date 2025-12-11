@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "samir-bhfl-monthly-stmt"
+    IMAGE_REPO_NAME: "bhfl-monthly-stmt"
     REGION: "ap-south-1"
 
 phases:
