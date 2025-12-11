@@ -3,3 +3,5 @@ pyarrow
 s3fs
 boto3
 reportlab
+python-dateutil
+fastparquet
