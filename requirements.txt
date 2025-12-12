@@ -4,3 +4,4 @@ s3fs
 boto3
 reportlab
 sqlalchemy
+pymysql
