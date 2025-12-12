@@ -5,3 +5,4 @@ boto3
 reportlab
 python-dateutil
 fastparquet
+sqlalchemy
